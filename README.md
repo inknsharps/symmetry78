@@ -1,5 +1,5 @@
 # symmetry78
-A rearranged handwired 75% keyboard firmware based off of QMK.
+A rearranged handwired 75% keyboard powered by QMK Firmware.
 
 Function row, navigation cluster and arrow keys found on a typical 75% keyboard arrangement have been moved as macro columns to the left and right of the alphas and modifiers for better symmetry.
 

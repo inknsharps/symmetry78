@@ -13,7 +13,7 @@ Current pinouts are making use of an Elite-C.
 
 ## BOM for the build:
 
-###Mandatory things:
+### Mandatory things:
 - 78 x MX style switches
 - 78 x 1N4148 diodes
 - 4 x 2u Cherry plate mount stabilizers
@@ -27,7 +27,7 @@ Current pinouts are making use of an Elite-C.
 - 10 x M2 Screws, 10mm length
 - 1 x Keycap set (a standard 104 keyset with 7u spacebar should cover this layout)
 
-###Things that you can swap out as needed for wiring:
+### Things that you can swap out as needed for wiring:
 - 1 x 21 gauge uninsulated brass wire (you can buy this by the spool)
 - 23 x Dupont Connectors
 - 23 x 0.1" / 2.54mm Right angle pin headers for the Elite-C
